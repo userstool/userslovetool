@@ -1,0 +1,11 @@
+{
+    "version": "2.0",
+    "update": "https://github.com/userstool/userslovetool/blob/main/atools.luac?raw=true",
+    "songs": "https://github.com/userstool/userslovetool/blob/main/songs",
+    "songs_list": [
+        "1",
+        "2",
+        "3",
+        "4"
+    ]
+}
